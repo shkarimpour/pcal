@@ -1,12 +1,12 @@
 # pcal
 Terminal base Persian(Jalaali) Calendar
 
-##Installation
+## Installation
 ```
 go get github.com/shkarimpour/go
 ```
 
-##Usage
+## Usage
 Type pcal in terminal.
 ```
 pcal
