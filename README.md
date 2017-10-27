@@ -3,7 +3,7 @@ Terminal base Persian(Jalaali) Calendar
 
 ## Installation
 ```
-go get github.com/shkarimpour/go
+go get github.com/shkarimpour/pcal
 ```
 
 ## Usage
